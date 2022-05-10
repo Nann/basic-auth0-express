@@ -1,0 +1,23 @@
+{
+  "name": "basic-auth0-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nann/basic-auth0-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nann/basic-auth0-express/issues"
+  },
+  "homepage": "https://github.com/Nann/basic-auth0-express#readme",
+  "dependencies": {
+    "express-oauth2-jwt-bearer": "^1.1.0"
+  }
+}
